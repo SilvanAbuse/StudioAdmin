@@ -1,0 +1,149 @@
+[
+    {
+        "date": "2020-01-28",
+        "services": [
+            {
+                "id": "1",
+                "date_start": "2020-01-28",
+                "time_start": "17:00",
+                "service_id": 3,
+                "service_name": "Женская Йога",
+                "service": [
+                    {
+                        "name": "Разовое занятие",
+                        "price": "200",
+                        "text": "Разовое занятие для сомневающихся!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "Первое занятие",
+                        "price": "400",
+                        "text": "Начните с нами уже сегодня!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "123",
+                        "price": "123",
+                        "text": "sadfsadf",
+                        "img": "http://studio.weedoo.ru/rlogo/191184/LJBszLmgqKtskBm8Mce9V6i9mVacNNxpO1J4VfmJ.jpeg"
+                    },
+                    {
+                        "name": null,
+                        "price": null,
+                        "text": null,
+                        "img": "http://studio.weedoo.ru/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020-01-29",
+        "services": [
+            {
+                "id": "1",
+                "date_start": "2020-01-29",
+                "time_start": "17:00",
+                "service_id": 3,
+                "service_name": "Женская Йога",
+                "service": [
+                    {
+                        "name": "Разовое занятие",
+                        "price": "200",
+                        "text": "Разовое занятие для сомневающихся!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "Первое занятие",
+                        "price": "400",
+                        "text": "Начните с нами уже сегодня!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "123",
+                        "price": "123",
+                        "text": "sadfsadf",
+                        "img": "http://studio.weedoo.ru/rlogo/191184/LJBszLmgqKtskBm8Mce9V6i9mVacNNxpO1J4VfmJ.jpeg"
+                    },
+                    {
+                        "name": null,
+                        "price": null,
+                        "text": null,
+                        "img": "http://studio.weedoo.ru/"
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "date_start": "2020-01-29",
+                "time_start": "18:00",
+                "service_id": 3,
+                "service_name": "Женская Йога",
+                "service": [
+                    {
+                        "name": "Разовое занятие",
+                        "price": "200",
+                        "text": "Разовое занятие для сомневающихся!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "Первое занятие",
+                        "price": "400",
+                        "text": "Начните с нами уже сегодня!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "123",
+                        "price": "123",
+                        "text": "sadfsadf",
+                        "img": "http://studio.weedoo.ru/rlogo/191184/LJBszLmgqKtskBm8Mce9V6i9mVacNNxpO1J4VfmJ.jpeg"
+                    },
+                    {
+                        "name": null,
+                        "price": null,
+                        "text": null,
+                        "img": "http://studio.weedoo.ru/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020-01-29",
+        "services": [
+            {
+                "id": "1",
+                "date_start": "2020-02-02",
+                "time_start": "18:00",
+                "service_id": 3,
+                "service_name": "Женская Йога",
+                "service": [
+                    {
+                        "name": "Разовое занятие",
+                        "price": "200",
+                        "text": "Разовое занятие для сомневающихся!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "Первое занятие",
+                        "price": "400",
+                        "text": "Начните с нами уже сегодня!",
+                        "img": "http://studio.weedoo.ru/"
+                    },
+                    {
+                        "name": "123",
+                        "price": "123",
+                        "text": "sadfsadf",
+                        "img": "http://studio.weedoo.ru/rlogo/191184/LJBszLmgqKtskBm8Mce9V6i9mVacNNxpO1J4VfmJ.jpeg"
+                    },
+                    {
+                        "name": null,
+                        "price": null,
+                        "text": null,
+                        "img": "http://studio.weedoo.ru/"
+                    }
+                ]
+            }
+        ]
+    }
+]
